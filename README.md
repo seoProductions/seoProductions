@@ -1,5 +1,4 @@
-👋👀 🌱 💞️ 📫 SeoProductions!
-Finished learning java this year in highschool
-Ptsd from algorithms - but hey im alive
-nothing special tbh just having fun.
-Hey you stopped by my page , how cool of you ;)
+Welcome to my page, feel free to look around!
+I make projects our of fun and enjoyment, and to simply 
+make everyones lives easier!
+
