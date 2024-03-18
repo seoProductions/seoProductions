@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eliseo</h1>
 <h3 align="center">you can call me seo</h3>
 
-- 🔨 I’m currently working on a **Sand Simulation in C++**
+- 🔨 I’m currently working on a **Sandy - Physics Simulation**
 
-- 🌱 I’m currently learning **QT , C , ASM**
+- 🌱 I’m currently learning **SFML, C, x86 Assembly**
 
-- ⚡ Fun fact **I like playing music**
+- ⚡ Fun fact **I play many Instruments: 🎸 🎷 🎹 🎺 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
