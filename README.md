@@ -3,7 +3,7 @@
 
 - 🔨 I’m currently working on a **Sandy - Physics Simulation**
 
-- 🌱 I’m currently learning **SFML, C, x86 Assembly**
+- 🌱 I’m currently learning **Assembly Language and Physics**
 
 - ⚡ Fun fact **I play many Instruments: 🎸 🎷 🎹 🎺 **
 
