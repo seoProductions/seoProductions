@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eliseo</h1>
 <h3 align="center">you can call me seo</h3>
 
-- 🔨 I’m currently working on a **Sandy - Physics Simulation**
+- 🔨 I’m currently working on a **Chrome Extention**
 
-- 🌱 I’m currently learning **Assembly Language and Physics**
+- 🌱 I’m currently learning **Javascript - working with Chrome + Firefox**
 
 - ⚡ Fun fact **I play many Instruments: 🎸 🎷 🎹 🎺 **
 
