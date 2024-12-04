@@ -16,7 +16,7 @@
 </div>
 <br>
 
-<p align="center">I love building programs, apps, websites, & much more... Feel free to explore my projects!</p>
+<p align="center">Welcome! Please feel free to take a look around!</p>
 
 <div align="center">
   <h2>Web-Dev</h2>
