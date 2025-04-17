@@ -1,4 +1,4 @@
-<H3 align="center">Hi 👋, I'm Eliseo,<br>you can call me seo</H3>
+<H3 align="center">Hi I'm Seo,<br>I like building,<br>breaking,<br>fixing,<br>and designing all types of programs</H3>
 
 ###
 
@@ -16,7 +16,7 @@
 </div>
 <br>
 
-<p align="center">Welcome! Please feel free to take a look around!</p>
+<p align="center">Below are some visually apealing stats!</p>
 
 <div align="center">
   <h2>Web-Dev</h2>
