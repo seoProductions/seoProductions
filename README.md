@@ -1,6 +1,4 @@
-<H3 align="center">Hi I'm Seo,<br>I like building,<br>breaking,<br>fixing,<br>and designing all types of programs</H3>
-
-###
+<H3 align="center">Hi I'm Seo,
 
 <div align="center">
   
@@ -16,7 +14,7 @@
 </div>
 <br>
 
-<p align="center">Below are some visually apealing stats!</p>
+<p align="center">I'm familiar with the tools below</p>
 
 <div align="center">
   <h2>Web-Dev</h2>
@@ -28,7 +26,7 @@
   <img width="12" />
   <br>
 
-  <h2>GUI-Apps</h2>
+  <h2>Apps</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
